@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Haitong Ma @mahaitongdae. DAE represents the old name of my undergraduate department, department of automotive engineering. It is now School of Vehicle and Mobility at Tsinghua University. 
+- 👋 Hi, I’m Haitong Ma @mahaitongdae. DAE represents the old name of my undergraduate department, department of automotive engineering. It is now School of Vehicle and Mobility at Tsinghua University. After graduating from Tsinghua University, I am fortunate to be a PhD student at Harvard and work with Prof. Na Li. 
 - 👀 I’m interested in the intersection between control, learning and optimization, and broad areas where these techniques could be applied to.
-<!-- - 🌱 I’m currently learning  -->
+- 🌱 I’m currently learning about the crazyflies, which is an open-sourced quadrotor program developed by Bitcraze.  
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Feel free to reach me through issues and email!
 
